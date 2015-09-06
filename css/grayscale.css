@@ -279,6 +279,10 @@ a:focus {
     -o-background-size: cover;
 }
 
+.show-section h3 {
+    padding-top: 15px;
+}
+
 .video-section {
     width: 100%;
     padding: 50px 0;
