@@ -143,6 +143,34 @@ a:focus {
         border-bottom: 1px solid rgba(255,255,255,.3);
         background: #000;
     }
+
+    .intro {
+        display: table;
+        width: 100%;
+        height: 100%;
+        padding: 100px 0;
+        text-align: center;
+        color: #fff;
+        background: url(../img/matt-cutout.jpg) no-repeat top left scroll;
+        background-color: #000;
+        background-size: 100% auto;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
+
+    .video-section {
+        width: 100%;
+        padding: 50px 0;
+        color: #fff;
+        background: url(../img/Backcover_JK_layered2.jpg) no-repeat center right scroll;
+        background-color: #000;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
 }
 
 .intro {
@@ -152,7 +180,6 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/matt-cutout.jpg) no-repeat top left scroll;
     background-color: #000;
     background-size: 100% auto;
     -webkit-background-size: cover;
@@ -287,7 +314,6 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/Backcover_JK_layered2.jpg) no-repeat center right scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
